@@ -5,11 +5,44 @@
 # Gruppo di lavoro data-driven per l’emergenza covid-19
 > Emergenza Covid-19 in Italia
 
-Un gruppo di lavoro multidisciplinare per approfondire le problematiche
-sanitarie relative alla diffusione del virus SARS-CoV-2 sul territorio
-italiano e gli effetti sociali ed economici prodotti dall'epidemia e
-dalle misure di contenimento adottate, al fine di valutare e/o proporre
-soluzioni tecnologiche data-driven.
+_Un gruppo multidisciplinare di esperti al lavoro per valutare e proporre
+soluzioni tecnologiche data-driven per la gestione dell’emergenza sanitaria,
+economica e sociale legata alla diffusione del virus SARS-CoV-2._
+
+Prendono il via i lavori della task force istituita dal [Ministro per
+l’innovazione tecnologica e la digitalizzazione](https://innovazione.gov.it/)
+in accordo con il [Ministero della
+Salute](http://www.salute.gov.it/portale/home.html) per **valutare e proporre
+soluzioni tecnologiche _data driven_** e affrontare l’emergenza sanitaria,
+sociale e economica legata alla diffusione del virus SARS-CoV-2 sul territorio
+italiano. La task force è composta da [un contingente multidisciplinare di 74
+esperti]({% link _posts/2020-03-31-DM-task-force.md %}), scelti in
+collaborazione con il Ministero della Salute, l’[Istituto Superiore di
+Sanità](https://www.iss.it/) e l’[Organizzazione Mondiale della
+Sanità](https://www.who.int/) e tra componenti direttamente designati
+dall'[Autorità  garante della concorrenza e del mercato](https://www.agcm.it/),
+dall’[Autorità per le garanzie nelle comunicazioni](https://www.agcom.it/)
+e dal [Garante per la protezione dei dati
+personali](https://www.garanteprivacy.it/), in base a comprovata esperienza
+nelle rispettive discipline di riferimento, che partecipano a titolo gratuito.
+Il compito di questo gruppo di lavoro è **individuare e valutare soluzioni
+tecnologiche _data driven_** per supportare il Governo e gli altri pubblici
+decisori nella definizione di politiche di contenimento del contagio da
+Covid-19.
+
+L’idea su cui si basa la task force è che l'innovazione tecnologica e la
+digitalizzazione possono dare un contributo significativo attraverso **la
+raccolta e l’analisi di dati**, nel rispetto delle normative sulla privacy, per
+l’adozione di tutte le misure necessarie a fronteggiare la crisi in atto. Una
+corretta gestione e condivisione dei dati può consentire alle istituzioni
+pubbliche di assumere le decisioni migliori, progettare le azioni più efficaci
+e fornire servizi sempre più rispondenti ai bisogni ed alle necessità di
+cittadini ed imprese. Inoltre, l’uso delle tecnologie emergenti (data
+analytics, big data, intelligenza artificiale) può contribuire in modo
+significativo a contenere il numero di contagi e agevolare **l’adozione
+tempestiva delle misure di distanziamento sociale** indispensabili per arginare
+la diffusione del virus.
+
 
 Introduzione
 ============
