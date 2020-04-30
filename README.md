@@ -1,3 +1,6 @@
+# Gruppo di lavoro data-driven per l’emergenza covid-19
+> Emergenza Covid-19 in Italia
+
 Un gruppo di lavoro multidisciplinare per approfondire le problematiche
 sanitarie relative alla diffusione del virus SARS-CoV-2 sul territorio
 italiano e gli effetti sociali ed economici prodotti dall'epidemia e
@@ -124,8 +127,9 @@ Coordinamento
     di avanzamento delle attività di ciascuno dei successivi
     sottogruppi;
 
-Infrastrutture e data collection
---------------------------------
+[Infrastrutture e data collection](sgdl_2_Infrastrutture_Data_Collection)
+-------------------------------------------------------------------------
+
 
 #### Obiettivi
 
