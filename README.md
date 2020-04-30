@@ -16,7 +16,7 @@ Salute](http://www.salute.gov.it/portale/home.html) per **valutare e proporre
 soluzioni tecnologiche _data driven_** e affrontare l’emergenza sanitaria,
 sociale e economica legata alla diffusione del virus SARS-CoV-2 sul territorio
 italiano. La task force è composta da [un contingente multidisciplinare di 74
-esperti]({% link _posts/2020-03-31-DM-task-force.md %}), scelti in
+esperti](https://innovazione.gov.it/DM-task-force/), scelti in
 collaborazione con il Ministero della Salute, l’[Istituto Superiore di
 Sanità](https://www.iss.it/) e l’[Organizzazione Mondiale della
 Sanità](https://www.who.int/) e tra componenti direttamente designati
