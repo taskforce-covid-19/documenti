@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="400" height="80" src="logo.jpg">
+</p>
 # Gruppo di lavoro data-driven per l’emergenza covid-19
 > Emergenza Covid-19 in Italia
 
