@@ -87,23 +87,24 @@ Sottogruppi
 
 Il Gruppo di lavoro è articolato in 8 sottogruppi che perseguono
 autonomamente i seguenti obiettivi specifici in relazione ai diversi
-ambiti di competenza:
+ambiti di competenza. Per ogni sottogruppo è presente la relativa cartella in
+questo repository contenente i materiali relativi:
 
 1.  Coordinamento
 
-2.  Infrastrutture e data collection
+2.  [Infrastrutture e data collection](sgdl_2_Infrastrutture_Data_Collection)
 
-3.  Impatto economico
+3.  [Impatto economico](sgdl_3_Impatto_Economico)
 
-4.  Web Data e impatto socio-economico
+4.  [Web Data e impatto socio-economico](sgdl_4_Web_Data_Impatto_Socio_Economico)
 
-5.  Teleassistenza medica
+5.  [Teleassistenza medica](sgdl_5_Teleassistenza_Medica)
 
-6.  Tecnologie per il governo dell'emergenza
+6.  [Tecnologie per il governo dell'emergenza](sgdl_6_Tecnologie_Governo_Emergenza)
 
-7.  Big Data & AI for policies
+7.  [Big Data & AI for policies](sgdl_7_Big_Data_AI_Policies)
 
-8.  Profili giuridici della gestione dei dati connessa all'emergenza
+8.  [Profili giuridici della gestione dei dati connessa all'emergenza](sgdl_8_Profili_Giuridici_Gestione_Dati_Emergenza)
 
 Ciascun sottogruppo organizza in autonomia le proprie attività,
 individuando le forme e le modalità più opportune per la partecipazione
