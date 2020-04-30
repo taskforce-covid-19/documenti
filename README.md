@@ -49,7 +49,7 @@ basato su tecnologie Big data analytics e Intelligenza artificiale e per
 questo è più che mai necessario approfondire l'analisi e lo studio di
 questi strumenti e delle opportunità che possono offrire, anche alla
 luce di una ricostruzione comparativa delle soluzioni adottate in altri
-ordinamenti, nel contesto Ue e extra Ue.
+ordinamenti, nel contesto UE e extra UE.
 
 Obiettivi 
 =========
@@ -79,12 +79,12 @@ b)  analisi e mappatura delle banche dati di interesse per gli scopi del
 
 c)  analisi e individuazione del quadro normativo di riferimento
     nazionale ed europeo e ricostruzione comparativa delle soluzioni
-    adottate in altri ordinamenti, nel contesto Ue ed extra Ue
+    adottate in altri ordinamenti, nel contesto UE ed extra UE;
 
 d)  analisi e studio di metodi e strumenti per la progettazione e
     l'attuazione di politiche basate sui dati (data driven) e
     sull'evidenza informativa, sfruttando tecnologie innovative per la
-    raccolta e l'interpretazione di grandi volumi di dati (big data);
+    raccolta e l'interpretazione di grandi volumi di dati (big data).
 
 Sottogruppi
 ===========
@@ -130,7 +130,7 @@ Coordinamento
     specifici temi trasversali ai gruppi siano affrontati in ottica
     collegiale, in base agli obiettivi, alla tempistica e allo stato
     di avanzamento delle attività di ciascuno dei successivi
-    sottogruppi;
+    sottogruppi.
 
 [Infrastrutture e data collection](sgdl_2_Infrastrutture_Data_Collection)
 -------------------------------------------------------------------------
@@ -139,16 +139,16 @@ Coordinamento
 #### Obiettivi
 
 -   Analisi e mappatura delle banche dati di interesse e dei livelli di
-    interoperabilità esistenti;
+    interoperabilità esistenti.
 
 -   Raccolta e consolidamento dei dati necessari allo svolgimento delle
-    attività dei Sottogruppi
+    attività dei Sottogruppi.
 
 -   Messa a sistema e/o l'ottimizzazione dei flussi (in base alle
     diverse realtà regionali) dei dati sanitari e amministrativi
     regionali e la gestione della interoperabilità, per la creazione
     di un ecosistema di scambio digitale con l'applicazione di BigData
-    Analytics
+    Analytics.
 
 #### Attività 
 
@@ -165,14 +165,14 @@ Coordinamento
     amministrazioni pubbliche.
 
 -   Coordinare le attività tra i gruppi di lavoro e supportare le
-    attività di ricerca sul piano operativo
+    attività di ricerca sul piano operativo.
 
 -   Fornire consulenza e strumenti tecnologici necessari al GdL per lo
     svolgimento dei lavori.
 
 -   Gestire la comunicazione del GdL, assicurando una corretta
     informazione sulle attività svolte, secondo il principio di
-    trasparenza
+    trasparenza.
 
 [Impatto economico](sgdl_3_Impatto_Economico)
 ---------------------------------------------
@@ -190,7 +190,7 @@ Coordinamento
     alla frequenza più alta disponibile) e fare esperimenti con degli
     shock selezionati ad-hoc (e.g. 5%, 10%, 15%, della produzione
     industriale pres-shock etc.) sia a livello regionale che
-    settoriale
+    settoriale.
 
 -   Usare serie storiche regionali, che esistono sia a frequenza
     giornaliera (o settimanale) sia a frequenza mensile, per studiare
@@ -207,7 +207,7 @@ Coordinamento
     dell'emergenza Covid19 - impatto economico, sociale, misure di
     contenimento, etc. - sulla base dell'analisi di dati provenienti
     dal web (Facebook, Twitter, Google, Chatbot e altri sistemi
-    AI-based, etc.);
+    AI-based, etc.).
 
 -   Analisi e studio di strumenti, metodi, e modelli per l'analisi del
     contagio virale e informativo e relativo impatto socio-economico
@@ -219,7 +219,7 @@ Coordinamento
     dell'informazione e contagio virale: analisi dei modelli
     epidemiologici e dei modelli di diffusione dell'informazione per
     valutare l'impatto della comunicazione mediatica e social sulla
-    gestione della pandemia
+    gestione della pandemia.
 
 -   Monitoraggio del flusso di informazione e della percezione
     attraverso analisi di flussi economici e dei principali canali di
@@ -229,10 +229,10 @@ Coordinamento
 
 -   Analisi e valutazione delle strategie di comunicazione sottese a
     politiche data-driven e valutazione della loro percezione e del
-    loro impatto socio-economico;
+    loro impatto socio-economico.
 
 -   Monitoraggio dell'impatto socio-economico delle strategie di
-    comunicazione/informazione e loro rebound
+    comunicazione/informazione e loro rebound.
 
 -   Monitoraggio di risposta della popolazione ed efficacia delle misure
     di contenimento e distanziamento sociale (in stretta sinergia con
@@ -270,8 +270,8 @@ Coordinamento
 -   Individuare possibili soluzioni offerte dalle tecnologie digitali
     per la gestione dell\'emergenza e per il contenimento del contagio
     anche alla luce di una ricostruzione comparativa delle soluzioni
-    adottate nel contesto Ue ed extra Ue (UK, Germania, Singapore,
-    Cina e Corea del Sud)
+    adottate nel contesto UE ed extra UE (UK, Germania, Singapore,
+    Cina e Corea del Sud).
 
 #### Attività
 
@@ -291,7 +291,7 @@ Coordinamento
 -   Analisi e studio di metodi e strumenti per la progettazione e
     l'attuazione di politiche basate sui dati (data driven) e
     sull'evidenza informativa, sfruttando tecnologie innovative per la
-    raccolta e l'interpretazione di grandi volumi di dati (big data);
+    raccolta e l'interpretazione di grandi volumi di dati (big data).
 
 #### Attività
 
@@ -334,7 +334,7 @@ Coordinamento
     esistenti per contrastare gli effetti del Coronavirus. La
     bioinformatica e le tecnologie di AI possono ridurre il numero
     esponenziale delle combinazioni sulle quali testare i farmaci
-    esistenti .
+    esistenti.
 
 -   Analisi automatica della letteratura e degli articoli scientifici:
     le tecniche di AI per l'analisi del linguaggio naturale possono
@@ -361,11 +361,11 @@ Coordinamento
 
 -   Analisi e mappatura dei vincoli normativi per l'utilizzazione e la
     condivisione dei dati personali tra soggetti pubblici e tra
-    soggetti privati e pubblici
+    soggetti privati e pubblici.
 
 -   Predisposizione di una strategia di garanzia dei diritti e delle
     libertà fondamentali nella gestione ordinaria ed emergenziale dei
-    dati personali
+    dati personali.
 
 -   Ricognizione ed analisi delle strategie in atto nei paesi europei e
-    verifica degli strumenti compatibili con l'ordinamento nazionale
+    verifica degli strumenti compatibili con l'ordinamento nazionale.
