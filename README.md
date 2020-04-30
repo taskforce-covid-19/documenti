@@ -169,8 +169,8 @@ Coordinamento
     informazione sulle attività svolte, secondo il principio di
     trasparenza
 
-Impatto economico
------------------
+[Impatto economico](sgdl_3_Impatto_Economico)
+---------------------------------------------
 
 #### Obiettivi
 
@@ -193,8 +193,8 @@ Impatto economico
     fattore (componente principale) che possa predire con anticipo gli
     andamenti della produzione industriale a livello regionale.
 
-Web Data e impatto socio-economico
-----------------------------------
+[Web Data e impatto socio-economico](sgdl_4_Web_Data_Impatto_Socio_Economico)
+-----------------------------------------------------------------------------
 
 #### Obiettivi
 
@@ -238,8 +238,8 @@ Web Data e impatto socio-economico
     contenimento e il distanziamento sociale rispetto alla mitigazione
     dell'epidemia, e modelli predittivi.
 
-Teleassistenza medica
----------------------
+[Teleassistenza medica](sgdl_5_Teleassistenza_Medica)
+-----------------------------------------------------
 
 #### Obiettivi
 
@@ -257,8 +257,8 @@ Teleassistenza medica
     dell'isolamento) ma anche successivamente per la teleassistenza in
     condizioni di normalità.
 
-Tecnologie per il governo dell'emergenza
-----------------------------------------
+[Tecnologie per il governo dell'emergenza](sgdl_6_Tecnologie_Governo_Emergenza)
+-------------------------------------------------------------------------------
 
 #### Obiettivi
 
@@ -278,8 +278,8 @@ Tecnologie per il governo dell'emergenza
     economica e sociale.
 
 
-Big Data & AI for policies
---------------------------
+[Big Data & AI for policies](sgdl_7_Big_Data_AI_Policies)
+---------------------------------------------------------
 
 #### Obiettivi
 
@@ -349,8 +349,8 @@ Big Data & AI for policies
     comune da integrare con le altre iniziative Europee e mondiali che
     nasceranno.
 
-Profili giuridici della gestione dei dati connessa all'emergenza
-----------------------------------------------------------------
+[Profili giuridici della gestione dei dati connessa all'emergenza](sgdl_8_Profili_Giuridici_Gestione_Dati_Emergenza)
+--------------------------------------------------------------------------------------------------------------------
 
 #### Obiettivi
 
