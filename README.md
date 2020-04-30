@@ -8,8 +8,8 @@ Introduzione
 ============
 
 Il Paese è chiamato ad affrontare un'importante emergenza sanitaria
-dovuta [[alla diffusione del Coronavirus
-(SARS-CoV-2)]{.underline}](http://www.salute.gov.it/nuovocoronavirus),
+dovuta [alla diffusione del Coronavirus
+(SARS-CoV-2)](http://www.salute.gov.it/nuovocoronavirus),
 dove l'innovazione tecnologica e la digitalizzazione possono dare un
 contributo significativo per supportare la raccolta e l'analisi di dati
 significativi per l'adozione di tutte le misure necessarie a
@@ -45,7 +45,7 @@ luce di una ricostruzione comparativa delle soluzioni adottate in altri
 ordinamenti, nel contesto Ue e extra Ue.
 
 Obiettivi 
-==========
+=========
 
 Il Gruppo di lavoro studia e analizza dati provenienti da
 amministrazioni pubbliche e soggetti privati relativi all\'emergenza
@@ -63,21 +63,21 @@ legate all'emergenza Covid-19.
 In particolare, svolge le seguenti attività:
 
 a)  analisi e studio delle problematiche connesse alla raccolta,
-    > conservazione ed elaborazione dei dati relativi all'emergenza in
-    > atto sotto il profilo giuridico, economico, sociale, sanitario ed
-    > ambientale;
+    conservazione ed elaborazione dei dati relativi all'emergenza in
+    atto sotto il profilo giuridico, economico, sociale, sanitario ed
+    ambientale;
 
 b)  analisi e mappatura delle banche dati di interesse per gli scopi del
-    > Gruppo di Lavoro e dei livelli di interoperabilità esistenti;
+    Gruppo di Lavoro e dei livelli di interoperabilità esistenti;
 
 c)  analisi e individuazione del quadro normativo di riferimento
-    > nazionale ed europeo e ricostruzione comparativa delle soluzioni
-    > adottate in altri ordinamenti, nel contesto Ue ed extra Ue
+    nazionale ed europeo e ricostruzione comparativa delle soluzioni
+    adottate in altri ordinamenti, nel contesto Ue ed extra Ue
 
 d)  analisi e studio di metodi e strumenti per la progettazione e
-    > l'attuazione di politiche basate sui dati (data driven) e
-    > sull'evidenza informativa, sfruttando tecnologie innovative per la
-    > raccolta e l'interpretazione di grandi volumi di dati (big data);
+    l'attuazione di politiche basate sui dati (data driven) e
+    sull'evidenza informativa, sfruttando tecnologie innovative per la
+    raccolta e l'interpretazione di grandi volumi di dati (big data);
 
 Sottogruppi
 ===========
@@ -119,10 +119,10 @@ Coordinamento
 #### Obiettivi
 
 -   Coordinare le attività della task force. Questo gruppo assicura che
-    > specifici temi trasversali ai gruppi siano affrontati in ottica
-    > collegiale, in base agli obiettivi, alla tempistica e allo stato
-    > di avanzamento delle attività di ciascuno dei successivi
-    > sottogruppi;
+    specifici temi trasversali ai gruppi siano affrontati in ottica
+    collegiale, in base agli obiettivi, alla tempistica e allo stato
+    di avanzamento delle attività di ciascuno dei successivi
+    sottogruppi;
 
 Infrastrutture e data collection
 --------------------------------
