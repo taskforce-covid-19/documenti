@@ -138,13 +138,13 @@ Coordinamento
 
 #### Obiettivi
 
--   analisi e mappatura delle banche dati di interesse e dei livelli di
+-   Analisi e mappatura delle banche dati di interesse e dei livelli di
     interoperabilità esistenti;
 
--   raccolta e consolidamento dei dati necessari allo svolgimento delle
+-   Raccolta e consolidamento dei dati necessari allo svolgimento delle
     attività dei Sottogruppi
 
--   messa a sistema e/o l'ottimizzazione dei flussi (in base alle
+-   Messa a sistema e/o l'ottimizzazione dei flussi (in base alle
     diverse realtà regionali) dei dati sanitari e amministrativi
     regionali e la gestione della interoperabilità, per la creazione
     di un ecosistema di scambio digitale con l'applicazione di BigData
@@ -248,14 +248,14 @@ Coordinamento
 
 #### Obiettivi
 
--   individuare possibili soluzioni offerte dalle tecnologie digitali
+-   Individuare possibili soluzioni offerte dalle tecnologie digitali
     per supportare l\'assistenza domiciliare sia in fase di emergenza
     COVID-19 ma anche successivamente per la teleassistenza in
     condizioni di normalità.
 
 #### Attività
 
--   selezionare, in base a requisiti - tecnici e operativi -- minimi
+-   Selezionare, in base a requisiti - tecnici e operativi -- minimi
     indispensabili, le tecnologie attualmente disponibili per
     supportare l\'assistenza domiciliare sia in fase di emergenza
     COVID-19 (comprendente anche il monitoraggio/controllo
@@ -267,7 +267,7 @@ Coordinamento
 
 #### Obiettivi
 
--   individuare possibili soluzioni offerte dalle tecnologie digitali
+-   Individuare possibili soluzioni offerte dalle tecnologie digitali
     per la gestione dell\'emergenza e per il contenimento del contagio
     anche alla luce di una ricostruzione comparativa delle soluzioni
     adottate nel contesto Ue ed extra Ue (UK, Germania, Singapore,
@@ -275,7 +275,7 @@ Coordinamento
 
 #### Attività
 
--   individuare tecnologie, e strategie basate sulle tecnologie, per il
+-   Individuare tecnologie, e strategie basate sulle tecnologie, per il
     monitoraggio 'attivo' del rischio di contagio tramite tracciamento
     dei contatti (human-detection), finalizzato al contenimento
     dell\'epidemia e alla progressiva ripresa della circolazione
@@ -288,7 +288,7 @@ Coordinamento
 
 #### Obiettivi
 
--   analisi e studio di metodi e strumenti per la progettazione e
+-   Analisi e studio di metodi e strumenti per la progettazione e
     l'attuazione di politiche basate sui dati (data driven) e
     sull'evidenza informativa, sfruttando tecnologie innovative per la
     raccolta e l'interpretazione di grandi volumi di dati (big data);
@@ -359,13 +359,13 @@ Coordinamento
 
 #### Obiettivi
 
--   analisi e mappatura dei vincoli normativi per l'utilizzazione e la
+-   Analisi e mappatura dei vincoli normativi per l'utilizzazione e la
     condivisione dei dati personali tra soggetti pubblici e tra
     soggetti privati e pubblici
 
--   predisposizione di una strategia di garanzia dei diritti e delle
+-   Predisposizione di una strategia di garanzia dei diritti e delle
     libertà fondamentali nella gestione ordinaria ed emergenziale dei
     dati personali
 
--   ricognizione ed analisi delle strategie in atto nei paesi europei e
+-   Ricognizione ed analisi delle strategie in atto nei paesi europei e
     verifica degli strumenti compatibili con l'ordinamento nazionale
