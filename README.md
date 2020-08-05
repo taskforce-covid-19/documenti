@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="80" src="logo.jpg">
+  <a href="https://innovazione.gov.it/"><img width="400" height="80" src="logo.jpg"></a>
 </p>
 
 # Gruppo di lavoro data-driven per l’emergenza covid-19
